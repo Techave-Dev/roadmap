@@ -4,7 +4,7 @@
   "link": {
     "type": "generated-index",
     "title": "Backend Development Roadmap",
-    "description": "Master backend development from fundamentals to production-ready systems. Learn server-side programming, databases, APIs, authentication, architecture patterns, and deployment strategies.",
-    "keywords": ["backend", "server", "api", "database", "nodejs", "python", "java"]
+    "description": "Master backend development from fundamentals to production-ready systems. Learn server-side programming, databases, APIs, authentication, architecture patterns, and deployment strategies. Includes a comprehensive internship program with NestJS, TypeScript, Prisma, and PostgreSQL.",
+    "keywords": ["backend", "server", "api", "database", "nodejs", "python", "java", "nestjs", "typescript", "internship", "prisma", "postgresql"]
   }
 }
